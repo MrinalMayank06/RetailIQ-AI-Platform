@@ -1,3 +1,4 @@
+#web link : retailiq-ai-platform-gye5egc5hpcfbmay.koreacentral-01.azurewebsites.net
 # RetailIQ AI Platform
 
 > **A smart retail backend platform for demand forecasting, anomaly detection, product support, customer insights, reporting, and cloud deployment.**
